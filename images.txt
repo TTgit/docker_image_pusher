@@ -1,4 +1,4 @@
-dockurr/windows:3.12
+bitnami/mysql:8.0.39
 nginx:alpine
 #nginx
 #支持私库
