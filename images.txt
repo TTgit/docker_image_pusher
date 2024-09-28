@@ -1,3 +1,4 @@
+mybigpai-public-registry.cn-beijing.cr.aliyuncs.com/easycv/torch_cuda:easyanimate
 bitnami/mysql:8.0.39
 nginx:alpine
 #nginx
