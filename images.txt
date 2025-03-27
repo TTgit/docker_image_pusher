@@ -1,4 +1,5 @@
-
+mongodb/mongodb-community-server:5.0.27-ubi8
+bitnami/kafka:4.0.0
 nginx:alpine
 mysql:8.0.40-debian
 redis:latest
