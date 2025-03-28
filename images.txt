@@ -1,3 +1,4 @@
+provectuslabs/kafka-ui:v0.7.2
 zookeeper:3.9.3
 mongodb/mongodb-community-server:5.0.27-ubi8
 bitnami/kafka:4.0.0
